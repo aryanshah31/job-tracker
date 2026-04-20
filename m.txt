@@ -1,0 +1,1 @@
+mongodb+srv://aryanbshah31_dbuser:Aryan2003@job-tracker.qrsyl35.mongodb.net/?appName=job-tracker
